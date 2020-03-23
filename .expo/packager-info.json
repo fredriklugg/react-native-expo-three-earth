@@ -3,7 +3,7 @@
   "expoServerPort": null,
   "packagerPort": null,
   "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerNgrokUrl": "https://nz-s83.lugfre.threejsapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.nz-s83.lugfre.threejsapp.exp.direct",
+  "ngrokPid": 28960
 }
